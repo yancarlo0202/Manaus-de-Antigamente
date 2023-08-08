@@ -44,3 +44,18 @@ body * {
     font-size: 37px;
     margin-top: 8px;
 }
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    padding: 0 50px;
+    font-size: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+}
