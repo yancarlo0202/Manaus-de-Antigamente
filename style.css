@@ -11,11 +11,12 @@ body {
     width: 360px;
     max-width: 720px;
     margin:56px auto 0px;
-    padding: 0 24px;;
+    padding: 0 24px;
 }
 
 body * {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Noto Serif', serif;
     color: black;
 }
 
@@ -31,4 +32,15 @@ body * {
     font-size: 98px;
     margin-top: 8px;
 
+}
+
+#subtitle {
+    text-align: center;
+    padding: 24px;
+}
+
+#subtitle {
+    font-weight: 500;
+    font-size: 37px;
+    margin-top: 8px;
 }
