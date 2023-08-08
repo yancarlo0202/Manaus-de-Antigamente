@@ -19,8 +19,15 @@ body * {
 }
 
 
+#title {
+    text-align: center;
+    padding: 24px;
+}
+
+
 #title p {
     font-weight: 500;
-    font-size: 18px;
+    font-size: 98px;
     margin-top: 8px;
+
 }
