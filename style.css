@@ -14,12 +14,6 @@ body {
     padding: 0 24px;
 }
 
-body * {
-    font-family: 'Inter', sans-serif;
-    font-family: 'Noto Serif', serif;
-    color: black;
-}
-
 
 h1 {
     text-align: center;
