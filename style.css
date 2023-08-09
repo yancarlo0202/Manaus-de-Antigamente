@@ -29,19 +29,11 @@ h1 {
     font-size: 100px;
 }
 
-h6 {
-    text-align: center;
-    padding: 10px;
-    font-size: 37px;
-
-}
 
 #subtitle {
     text-align: center;
     padding: 24px;
-}
 
-#subtitle {
     font-weight: 500;
     font-size: 37px;
     margin-top: 8px;
