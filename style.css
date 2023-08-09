@@ -21,16 +21,16 @@ body * {
 }
 
 
-#title {
+h1 {
     text-align: center;
     padding: 24px;
+    font-size: 100px;
 }
 
-
-#title p {
-    font-weight: 500;
-    font-size: 98px;
-    margin-top: 8px;
+h6 {
+    text-align: center;
+    padding: 10px;
+    font-size: 37px;
 
 }
 
