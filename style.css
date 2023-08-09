@@ -24,6 +24,8 @@ body * {
 
 #title {
     padding: 24px;
+    font-weight: 500px;
+    margin-top: 8px;
 }
 
 h1 {
@@ -34,9 +36,7 @@ h1 {
 
 #subtitle {
     padding: 24px;
-
-    font-weight: 500;
-    font-size: 37px;
+    font-weight: 500px;
     margin-top: 8px;
 }
 
