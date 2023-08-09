@@ -34,14 +34,14 @@ h1 {
 }
 
 
-#subtitle {
+#paragraph {
     padding: 24px;
     font-weight: 500px;
     margin-top: 8px;
 }
 
 
-h6 {
+p {
     text-align: center;
     font-size: 37px;
 }
