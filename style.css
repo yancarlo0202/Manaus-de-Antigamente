@@ -7,6 +7,14 @@ body {
     background-color: antiquewhite;
 }
 
+
+body * {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Noto Serif', serif;
+    color: black;
+}
+
+
 #container {
     width: 360px;
     max-width: 720px;
