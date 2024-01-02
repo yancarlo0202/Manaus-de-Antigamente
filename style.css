@@ -33,6 +33,12 @@ h1 {
     font-size: 100px;
 }
 
+h1 img {
+
+    width: 790px;
+    height: 400px;
+
+}
 
 #paragraph {
     padding: 24px;
